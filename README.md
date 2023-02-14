@@ -1,2 +1,2 @@
 # Responsive_HTML_CSS
-Responsive_HTML_CSS_website_templates 
+This repository is a show case for my Responsive HTML & CSS templates.  
